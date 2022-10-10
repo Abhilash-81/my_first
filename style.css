@@ -1,0 +1,39 @@
+li{
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: rgb(61, 164, 164);
+}
+
+.abhilash{
+    margin-right: 2rem;
+    background-color: lightpink;
+    border-radius: 1rem;
+}
+body{
+    color: rgb(73 9 255);
+
+}
+
+td{
+    font-size: 1.1rem;
+    font-weight: 400;
+}
+
+a :hover{
+   color: rgb(23, 136, 136);
+}
+
+h1{
+    color: rgb(243, 200, 137);
+    white-space: inherit;
+
+}
+
+b{
+    font-size: 2rem;
+}
+.bvrit{
+    margin-left: 2rem;
+    padding: 2rem;
+    border-radius: 1rem;
+}
